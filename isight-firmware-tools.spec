@@ -55,3 +55,14 @@ rm -rf %{buildroot}%{_docdir}/%{name}
 %{_mandir}/man1/ift-export.1.*
 %{_mandir}/man1/ift-extract.1.*
 /lib/udev/ift-load
+
+
+%changelog
+* Thu Jun 14 2012 Andrey Bondrov <abondrov@mandriva.org> 1.6-2
++ Revision: 805551
+- Drop some legacy junk
+
+* Sun Dec 18 2011 Alexander Khrukin <akhrukin@mandriva.org> 1.6-1
++ Revision: 743631
+- imported package isight-firmware-tools
+
