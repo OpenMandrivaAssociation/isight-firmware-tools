@@ -4,7 +4,7 @@
 Summary:	Firmware extraction tools for Apple Built-in iSight camera
 Name:		isight-firmware-tools
 Version:	1.6
-Release:	2
+Release:	3
 License:	GPLv2+
 Group:		System/Base
 URL:		http://launchpad.net/isight-firmware-tools/
