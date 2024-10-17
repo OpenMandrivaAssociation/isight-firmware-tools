@@ -7,7 +7,7 @@ Version:	1.6
 Release:	3
 License:	GPLv2+
 Group:		System/Base
-URL:		http://launchpad.net/isight-firmware-tools/
+URL:		https://launchpad.net/isight-firmware-tools/
 Source0:	http://launchpad.net/isight-firmware-tools/main/1.6/+download/%{name}-%{version}.tar.gz
 Patch0:		isight-firmware-tools-ift-load-path.patch
 Requires:	udev
